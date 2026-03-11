@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}{{ entry.title }} — Housing Wiki{% endblock %}
+{% block content %}
+<div class="page-header">
+    <div>
+        <div class="page-eyebrow">
+            <a href="/">Home</a> /
+            <a href="/section/{{ section.id }}">{{ section.label }}</a>
+        </div>
+        <h1 class="page-title">{{ entry.title }}</h1>
+    </div>
+    <div class="entry-actions">
+        <a href="/edit/{{ section.id }}/{{ entry.id }}" class="btn-edit">Edit</a>
+        <form method="post" action="/delete/{{ section.id }}/{{ entry.id }}" onsubmit="return confirm('Delete this entry?')">
+            <button type="submit" class="btn-delete">Delete</button>
+        </form>
+    </div>
+</div>
+
+{% if entry.tags %}
+<div class="tag-row">
+    {% for tag in entry.tags %}
+    <span class="tag">{{ tag }}</span>
+    {% endfor %}
+</div>
+{% endif %}
+
+<div class="entry-body" id="entry-body">{{ entry.body }}</div>
+
+<div class="entry-meta-footer">
+    <span>Created {{ entry.created[:10] }}</span>
+    {% if entry.updated %}<span>Updated {{ entry.updated[:10] }}</span>{% endif %}
+</div>
+{% endblock %}

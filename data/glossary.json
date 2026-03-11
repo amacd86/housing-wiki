@@ -1,0 +1,97 @@
+{
+  "entries": [
+    {
+      "id": "945f5705-c482-4e7f-a9d1-2412d90d4328",
+      "title": "ADU \u2014 Accessory Dwelling Unit",
+      "body": "Secondary housing unit on a single-family lot. Can be attached (above garage, basement) or detached (backyard cottage). HB 577 (2025) now requires NH municipalities to allow both types by right in single-family zones.",
+      "tags": [
+        "ADU",
+        "density"
+      ],
+      "created": "2026-03-11T01:23:47.675381"
+    },
+    {
+      "id": "2eeefcb5-f4c6-47ff-b1ba-c99503742146",
+      "title": "CDFA \u2014 Community Development Finance Authority",
+      "body": "NH state tax credit program for affordable housing development. PHA Housing Development Ltd. uses these \u2014 $193k awarded for Lafayette Road project FY2026.",
+      "tags": [
+        "financing",
+        "state"
+      ],
+      "created": "2026-03-11T01:23:47.675390"
+    },
+    {
+      "id": "a71f3499-63f8-40c0-9cb3-9b746a2d5661",
+      "title": "Euclidean Zoning",
+      "body": "Traditional US zoning model that strictly separates land uses into distinct zones (residential, commercial, industrial, etc.). Named after a 1926 Supreme Court case (Euclid v. Ambler). The system that made missing middle housing illegal in most of America.",
+      "tags": [
+        "zoning",
+        "history"
+      ],
+      "created": "2026-03-11T01:23:47.675399"
+    },
+    {
+      "id": "260ef0ef-8688-48f6-889b-00f676411846",
+      "title": "GNOD \u2014 Gateway Neighborhood Overlay District",
+      "body": "Portsmouth's overlay district covering Commerce Way and Portsmouth Blvd. Passed 2024. Allows up to 6-story, 120-unit residential buildings on formerly office-research zoned land. ~23 acres walkable to downtown.",
+      "tags": [
+        "Portsmouth",
+        "overlay",
+        "density"
+      ],
+      "created": "2026-03-11T01:23:47.675407"
+    },
+    {
+      "id": "b48333eb-cf52-4fcd-9e50-57f04382e6b5",
+      "title": "HCV \u2014 Housing Choice Voucher (Section 8)",
+      "body": "Federal subsidy allowing low-income renters to rent in the private market. PHA administers 460+ vouchers. Voucher utilization rate and landlord participation are key metrics to monitor.",
+      "tags": [
+        "HUD",
+        "vouchers",
+        "Section 8"
+      ],
+      "created": "2026-03-11T01:23:47.675419"
+    },
+    {
+      "id": "2eb65cd3-6520-4f05-b82c-818beda928cd",
+      "title": "LIHTC \u2014 Low-Income Housing Tax Credits",
+      "body": "Federal program. Primary financing mechanism for affordable housing nationally. PHA Housing Development Ltd. uses these for development projects.",
+      "tags": [
+        "financing",
+        "federal"
+      ],
+      "created": "2026-03-11T01:23:47.675427"
+    },
+    {
+      "id": "505962dc-90a5-4409-99ad-f4a17c68d878",
+      "title": "Missing Middle Housing",
+      "body": "Housing types between single-family homes and large apartment towers: duplexes, triplexes, fourplexes, townhouses, courtyard buildings, small apartment buildings. Legal pre-WWII. Zoned out of existence in most US/Canadian cities by Euclidean zoning + parking minimums.",
+      "tags": [
+        "density",
+        "housing types"
+      ],
+      "created": "2026-03-11T01:23:47.675435"
+    },
+    {
+      "id": "cb722038-2ae2-41c0-97ca-e306a7834547",
+      "title": "Overlay Zone",
+      "body": "A zoning district layered on top of existing base zoning that adds permissions, restrictions, or regulations without replacing the base zone. The GNOD is Portsmouth's primary recent example \u2014 it added high-density residential permissions on top of existing office-research zoning.",
+      "tags": [
+        "zoning",
+        "overlay"
+      ],
+      "created": "2026-03-11T01:23:47.675458"
+    },
+    {
+      "id": "e253dc70-1835-4ca8-a89d-f48c980133e1",
+      "title": "79-E",
+      "body": "Community Revitalization Tax Relief Incentive Program. Encourages rehab of underutilized buildings in downtowns via property tax relief. 68 NH communities have adopted it. Conway created a Housing Opportunity Zone variant offering up to 14 years of relief for affordable projects.",
+      "tags": [
+        "tax relief",
+        "state law",
+        "financing"
+      ],
+      "created": "2026-03-11T01:23:47.675475"
+    }
+  ]
+}

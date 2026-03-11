@@ -1,0 +1,9 @@
+services:
+  housing-wiki:
+    build: .
+    container_name: housing-wiki
+    ports:
+      - "5050:5050"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

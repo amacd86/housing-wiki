@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Search — Housing Wiki{% endblock %}
+{% block content %}
+<div class="page-header">
+    <div>
+        <div class="page-eyebrow"><a href="/">Home</a> / Search</div>
+        <h1 class="page-title">{% if query %}Results for "{{ query }}"{% else %}Search{% endif %}</h1>
+    </div>
+</div>
+
+{% if results %}
+<div class="search-count">{{ results | length }} result{% if results | length != 1 %}s{% endif %}</div>
+<div class="entry-list">
+    {% for e in results %}
+    <a href="/entry/{{ e.section_id }}/{{ e.id }}" class="entry-card">
+        <div class="entry-card-section">{{ e.section_icon }} {{ e.section_label }}</div>
+        <div class="entry-card-title">{{ e.title }}</div>
+        <div class="entry-card-preview">{{ e.body[:120] | replace('\n', ' ') }}…</div>
+        <div class="entry-card-meta">
+            {% for tag in e.tags[:4] %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </a>
+    {% endfor %}
+</div>
+{% elif query %}
+<div class="empty-state">
+    <div class="empty-icon">🔍</div>
+    <div>No results for "{{ query }}"</div>
+</div>
+{% endif %}
+{% endblock %}

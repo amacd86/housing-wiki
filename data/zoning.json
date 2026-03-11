@@ -1,0 +1,38 @@
+{
+  "entries": [
+    {
+      "id": "13625264-4351-4100-ae95-08ae44d3fb21",
+      "title": "Zoning Basics",
+      "body": "**Zoning code has 2 parts: Map + Regulations**\n\n**Map** assigns every parcel to a district:\n- Residential (single family \u2192 high rise)\n- Commercial (retail, restaurants, hotels)\n- Industrial\n- Institutional (schools, public buildings)\n- Open Space\n\nDistricts separate uses AND intensity (e.g. C1, C2, C3 for increasing commercial density).\n\n**Overlay Zones** layer on top of other zones adding additional restrictions/regulations \u2014 this is what the GNOD is.\n\n**Regulations (zoning ordinance)** contain:\n- Use tables \u2014 what's allowed, conditional, or prohibited per zone\n- Development standards \u2014 setbacks, side yards, min lot sizes, building heights\n- Impact regulations \u2014 signage, parking standards, historic preservation (not zone-specific)",
+      "tags": [
+        "basics",
+        "map",
+        "regulations"
+      ],
+      "created": "2026-03-11T01:23:47.674917"
+    },
+    {
+      "id": "b113f1af-9bdc-4845-948d-fcf2e5f3bb99",
+      "title": "Missing Middle Housing",
+      "body": "**The problem:** America built a two-option system \u2014 sprawl OR towers \u2014 by making everything in between illegal.\n\n**Missing middle** = duplexes, triplexes, fourplexes, courtyard cottages, townhouses, small apartment buildings. Legal before ~1940s. Zoned out of existence after WWII via Euclidean zoning + car-centric policy.\n\n**Why developers build towers instead:** Zoning approval is costly and uncertain. Only worth fighting if profit margin justifies it. Middle housing doesn't pencil out under current rules.\n\n**Parking minimums** compound the problem \u2014 requiring X spaces per unit makes dense small buildings financially impossible.\n\n**Examples of reform:**\n- Minneapolis (2019): abolished single-family zoning, allows duplexes/triplexes citywide\n- Portland: allows fourplexes and cottage courts\n- Montgomery County MD: 50/50 market rate / affordable model\n\n**Form-based codes** regulate size/shape of buildings instead of use \u2014 an alternative to traditional Euclidean zoning.",
+      "tags": [
+        "missing middle",
+        "density",
+        "parking",
+        "reform"
+      ],
+      "created": "2026-03-11T01:23:47.675155"
+    },
+    {
+      "id": "f97d3b92-7213-4357-a3d7-226fdb290529",
+      "title": "Exclusionary Zoning",
+      "body": "Zoning has historically been used for exclusion \u2014 originally explicitly by race/ethnicity, now through economic mechanisms.\n\n**Modern exclusionary tools:**\n- Large minimum lot sizes (1+ acre requirements \u2192 only expensive homes built)\n- High parking minimums\n- Setback/height restrictions that increase construction cost\n- Single-family-only zoning over vast areas (San Jose: 94% of residential land)\n\n**Effect:** Cities become enclaves for the wealthy. Working families, essential workers, and seniors get priced out.\n\n**Segregation of uses** also creates sterile environments and forces car dependency \u2014 mixed-use zoning is the antidote but not widespread.",
+      "tags": [
+        "exclusion",
+        "equity",
+        "history"
+      ],
+      "created": "2026-03-11T01:23:47.675219"
+    }
+  ]
+}

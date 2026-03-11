@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}{{ section.label }} — Housing Wiki{% endblock %}
+{% block content %}
+<div class="page-header">
+    <div class="page-header-icon">{{ section.icon }}</div>
+    <div>
+        <div class="page-eyebrow"><a href="/">Home</a> / {{ section.label }}</div>
+        <h1 class="page-title">{{ section.label }}</h1>
+    </div>
+    <a href="/new/{{ section.id }}" class="btn-add">+ New</a>
+</div>
+
+{% if entries %}
+<div class="entry-list">
+    {% for e in entries %}
+    <a href="/entry/{{ section.id }}/{{ e.id }}" class="entry-card">
+        <div class="entry-card-title">{{ e.title }}</div>
+        <div class="entry-card-preview">{{ e.body[:120] | replace('\n', ' ') }}…</div>
+        <div class="entry-card-meta">
+            {% for tag in e.tags[:4] %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+    </a>
+    {% endfor %}
+</div>
+{% else %}
+<div class="empty-state">
+    <div class="empty-icon">📄</div>
+    <div>No entries yet.</div>
+    <a href="/new/{{ section.id }}" class="btn-add" style="margin-top:1rem">+ Add First Entry</a>
+</div>
+{% endif %}
+{% endblock %}

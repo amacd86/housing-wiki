@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Portsmouth Housing Wiki{% endblock %}
+{% block content %}
+<div class="hero">
+    <div class="hero-eyebrow">PERSONAL REFERENCE</div>
+    <h1 class="hero-title">Portsmouth<br>Housing Wiki</h1>
+    <p class="hero-sub">Everything from the Tabor conversation, NH legislation, zoning fundamentals, and Portsmouth specifics — in one place.</p>
+</div>
+
+<div class="section-grid">
+    {% for s in sections %}
+    <a href="/section/{{ s.id }}" class="section-card">
+        <div class="section-card-icon">{{ s.icon }}</div>
+        <div class="section-card-label">{{ s.label }}</div>
+        <div class="section-card-arrow">→</div>
+    </a>
+    {% endfor %}
+</div>
+{% endblock %}

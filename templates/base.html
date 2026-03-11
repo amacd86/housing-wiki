@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#0f1117">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>{% block title %}Housing Wiki{% endblock %}</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <nav class="topnav">
+        <a href="/" class="nav-brand">🏛 Housing Wiki</a>
+        <form action="/search" method="get" class="nav-search">
+            <input type="search" name="q" placeholder="Search..." value="{{ request.args.get('q', '') }}">
+            <button type="submit">↵</button>
+        </form>
+    </nav>
+
+    <div class="layout">
+        <aside class="sidebar">
+            <div class="sidebar-label">SECTIONS</div>
+            {% for s in sections %}
+            <a href="/section/{{ s.id }}" class="sidebar-link {% if request.path == '/section/' + s.id %}active{% endif %}">
+                <span class="sidebar-icon">{{ s.icon }}</span>
+                <span>{{ s.label }}</span>
+            </a>
+            {% endfor %}
+        </aside>
+
+        <main class="main">
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
