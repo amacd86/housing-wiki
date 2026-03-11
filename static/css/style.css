@@ -37,13 +37,15 @@ a:hover { color: var(--text); }
 .topnav {
     position: fixed;
     top: 0; left: 0; right: 0;
-    height: 52px;
+    height: calc(52px + env(safe-area-inset-top));
+    padding-top: env(safe-area-inset-top);
     background: rgba(15,17,23,0.92);
     backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border);
     display: flex;
     align-items: center;
-    padding: 0 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     gap: 1rem;
     z-index: 100;
 }
@@ -92,8 +94,8 @@ a:hover { color: var(--text); }
 /* ---- LAYOUT ---- */
 .layout {
     display: flex;
-    margin-top: 52px;
-    min-height: calc(100vh - 52px);
+    margin-top: calc(52px + env(safe-area-inset-top));
+    min-height: calc(100vh - 52px - env(safe-area-inset-top));
 }
 
 .sidebar {
@@ -102,7 +104,7 @@ a:hover { color: var(--text); }
     border-right: 1px solid var(--border);
     padding: 1.25rem 0;
     position: fixed;
-    top: 52px;
+    top: calc(52px + env(safe-area-inset-top));
     bottom: 0;
     overflow-y: auto;
     flex-shrink: 0;
