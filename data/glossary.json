@@ -2,7 +2,7 @@
   "entries": [
     {
       "id": "945f5705-c482-4e7f-a9d1-2412d90d4328",
-      "title": "ADU \u2014 Accessory Dwelling Unit",
+      "title": "ADU — Accessory Dwelling Unit",
       "body": "Secondary housing unit on a single-family lot. Can be attached (above garage, basement) or detached (backyard cottage). HB 577 (2025) now requires NH municipalities to allow both types by right in single-family zones.",
       "tags": [
         "ADU",
@@ -12,8 +12,8 @@
     },
     {
       "id": "2eeefcb5-f4c6-47ff-b1ba-c99503742146",
-      "title": "CDFA \u2014 Community Development Finance Authority",
-      "body": "NH state tax credit program for affordable housing development. PHA Housing Development Ltd. uses these \u2014 $193k awarded for Lafayette Road project FY2026.",
+      "title": "CDFA — Community Development Finance Authority",
+      "body": "NH state tax credit program for affordable housing development. PHA Housing Development Ltd. uses these — $193k awarded for Lafayette Road project FY2026.",
       "tags": [
         "financing",
         "state"
@@ -32,8 +32,8 @@
     },
     {
       "id": "260ef0ef-8688-48f6-889b-00f676411846",
-      "title": "GNOD \u2014 Gateway Neighborhood Overlay District",
-      "body": "A zoning district layered on top of existing base zoning that adds permissions, restrictions, or regulations without replacing the underlying zone. The base zone remains in effect; the overlay adds a second layer of rules that apply simultaneously.\r\n\r\n**How it works:** A parcel in an overlay zone must comply with both the base zone regulations AND the overlay regulations. Where they conflict, the more restrictive rule typically applies \u2014 unless the overlay is explicitly designed to loosen restrictions (as with GNOD).\r\n\r\n**Portsmouth example:** GNOD is an overlay on top of the office-research base zone along Commerce Way and Portsmouth Boulevard. The base zone still exists; GNOD layers on top to permit residential uses and greater density that the base zone prohibited.\r\n\r\n**Why overlays are useful:** They allow targeted policy changes in specific geographic areas without triggering a full zoning rewrite. Faster to adopt, easier to replicate. Tabor has explicitly said he wants to use the overlay model in other underutilized zones citywide.\r\n",
+      "title": "GNOD — Gateway Neighborhood Overlay District",
+      "body": "A zoning district layered on top of existing base zoning that adds permissions, restrictions, or regulations without replacing the underlying zone. The base zone remains in effect; the overlay adds a second layer of rules that apply simultaneously.\r\n\r\n**How it works:** A parcel in an overlay zone must comply with both the base zone regulations AND the overlay regulations. Where they conflict, the more restrictive rule typically applies — unless the overlay is explicitly designed to loosen restrictions (as with GNOD).\r\n\r\n**Portsmouth example:** GNOD is an overlay on top of the office-research base zone along Commerce Way and Portsmouth Boulevard. The base zone still exists; GNOD layers on top to permit residential uses and greater density that the base zone prohibited.\r\n\r\n**Why overlays are useful:** They allow targeted policy changes in specific geographic areas without triggering a full zoning rewrite. Faster to adopt, easier to replicate. Tabor has explicitly said he wants to use the overlay model in other underutilized zones citywide.\r\n",
       "tags": [
         "Portsmouth",
         "overlay",
@@ -44,7 +44,7 @@
     },
     {
       "id": "b48333eb-cf52-4fcd-9e50-57f04382e6b5",
-      "title": "HCV \u2014 Housing Choice Voucher (Section 8)",
+      "title": "HCV — Housing Choice Voucher (Section 8)",
       "body": "Federal subsidy allowing low-income renters to rent in the private market. PHA administers 460+ vouchers. Voucher utilization rate and landlord participation are key metrics to monitor.",
       "tags": [
         "HUD",
@@ -55,7 +55,7 @@
     },
     {
       "id": "2eb65cd3-6520-4f05-b82c-818beda928cd",
-      "title": "LIHTC \u2014 Low-Income Housing Tax Credits",
+      "title": "LIHTC — Low-Income Housing Tax Credits",
       "body": "Federal program. Primary financing mechanism for affordable housing nationally. PHA Housing Development Ltd. uses these for development projects.",
       "tags": [
         "financing",
@@ -66,7 +66,7 @@
     {
       "id": "505962dc-90a5-4409-99ad-f4a17c68d878",
       "title": "Missing Middle Housing",
-      "body": "**What it is:** Housing types that fall between detached single-family homes and large apartment towers: duplexes, triplexes, fourplexes, townhouses, courtyard apartments, and small apartment buildings (typically 5\u201312 units). Coined by architect Daniel Parolek.\r\n\r\n**Why it disappeared:** Post-WWII Euclidean zoning made most missing middle types illegal in residential zones across the US, leaving only two options: sprawl (single-family) or towers (large multifamily). The missing middle was legal to build before WWII \u2014 which is why Portsmouth's pre-1940s neighborhoods look the way they do.\r\n\r\n**National examples:** Minneapolis abolished single-family-only zoning in 2019. Portland OR allows fourplexes and cottage courts citywide. These are the models Portsmouth advocates reference.\r\n\r\n**Portsmouth context:** The Kane Company's 274-unit project at 150 Portsmouth Blvd explicitly markets to \"missing middle\" renters \u2014 teachers, firefighters, workforce earners who earn too much for subsidized housing but can't afford Portsmouth's luxury market. Co-living (passed May 2025) is another missing middle type now permitted downtown. The 2027 zoning rewrite is expected to address missing middle more broadly \u2014 Progress Portsmouth has flagged that townhouses currently require a ZBA variance, which is a key barrier to soft density in residential neighborhoods.\r\n",
+      "body": "**What it is:** Housing types that fall between detached single-family homes and large apartment towers: duplexes, triplexes, fourplexes, townhouses, courtyard apartments, and small apartment buildings (typically 5–12 units). Coined by architect Daniel Parolek.\r\n\r\n**Why it disappeared:** Post-WWII Euclidean zoning made most missing middle types illegal in residential zones across the US, leaving only two options: sprawl (single-family) or towers (large multifamily). The missing middle was legal to build before WWII — which is why Portsmouth's pre-1940s neighborhoods look the way they do.\r\n\r\n**National examples:** Minneapolis abolished single-family-only zoning in 2019. Portland OR allows fourplexes and cottage courts citywide. These are the models Portsmouth advocates reference.\r\n\r\n**Portsmouth context:** The Kane Company's 274-unit project at 150 Portsmouth Blvd explicitly markets to \"missing middle\" renters — teachers, firefighters, workforce earners who earn too much for subsidized housing but can't afford Portsmouth's luxury market. Co-living (passed May 2025) is another missing middle type now permitted downtown. The 2027 zoning rewrite is expected to address missing middle more broadly — Progress Portsmouth has flagged that townhouses currently require a ZBA variance, which is a key barrier to soft density in residential neighborhoods.\r\n",
       "tags": [
         "density",
         "housing types",
@@ -78,7 +78,7 @@
     {
       "id": "cb722038-2ae2-41c0-97ca-e306a7834547",
       "title": "Overlay Zone",
-      "body": "A zoning district layered on top of existing base zoning that adds permissions, restrictions, or regulations without replacing the base zone. The GNOD is Portsmouth's primary recent example \u2014 it added high-density residential permissions on top of existing office-research zoning.",
+      "body": "A zoning district layered on top of existing base zoning that adds permissions, restrictions, or regulations without replacing the base zone. The GNOD is Portsmouth's primary recent example — it added high-density residential permissions on top of existing office-research zoning.",
       "tags": [
         "zoning",
         "overlay"
@@ -88,7 +88,7 @@
     {
       "id": "e253dc70-1835-4ca8-a89d-f48c980133e1",
       "title": "79-E",
-      "body": "**What it is:** NH RSA 79-E \u2014 Community Revitalization Tax Relief Incentive. Allows municipalities to grant temporary property tax relief to owners who substantially rehabilitate underutilized or vacant buildings in downtown or village center areas. The tax assessment is frozen at the pre-rehab value for the duration of the relief period, then steps up to full assessed value.\r\n\r\n**Eligibility:** Building must be in a qualifying downtown or village center district. Municipality must adopt the program by ordinance. 68 NH communities have adopted it.\r\n\r\n**Relief period:** Standard is up to 5 years, extendable to 10 years if the project includes a community benefit (affordable housing, childcare, arts space, etc.).\r\n\r\n**Conway variant:** Conway NH created a \"Housing Opportunity Zone\" variant allowing up to 14 years of tax relief \u2014 the longest in the state. Cited as a model for municipalities that want to use 79-E aggressively for housing production.\r\n\r\n**Portsmouth relevance:** Portsmouth is eligible and the tool is on the Blue Ribbon Committee's radar as part of the financial incentives toolkit. Particularly useful for activating underutilized downtown buildings for residential conversion \u2014 directly relevant to the co-living and missing middle conversation in Market Square and the North End.\r\n",
+      "body": "**What it is:** NH RSA 79-E — Community Revitalization Tax Relief Incentive. Allows municipalities to grant temporary property tax relief to owners who substantially rehabilitate underutilized or vacant buildings in downtown or village center areas. The tax assessment is frozen at the pre-rehab value for the duration of the relief period, then steps up to full assessed value.\r\n\r\n**Eligibility:** Building must be in a qualifying downtown or village center district. Municipality must adopt the program by ordinance. 68 NH communities have adopted it.\r\n\r\n**Relief period:** Standard is up to 5 years, extendable to 10 years if the project includes a community benefit (affordable housing, childcare, arts space, etc.).\r\n\r\n**Conway variant:** Conway NH created a \"Housing Opportunity Zone\" variant allowing up to 14 years of tax relief — the longest in the state. Cited as a model for municipalities that want to use 79-E aggressively for housing production.\r\n\r\n**Portsmouth relevance:** Portsmouth is eligible and the tool is on the Blue Ribbon Committee's radar as part of the financial incentives toolkit. Particularly useful for activating underutilized downtown buildings for residential conversion — directly relevant to the co-living and missing middle conversation in Market Square and the North End.\r\n",
       "tags": [
         "tax relief",
         "state law",
@@ -99,8 +99,8 @@
     },
     {
       "id": "8e1ac9c5-d07f-47c0-9f46-6eb4e32c4f90",
-      "title": "AMI \u2014 Area Median Income",
-      "body": "**What it is:** The midpoint income for a given metropolitan area, calculated annually by HUD. Half of households earn above AMI, half below. Used universally to define affordability thresholds in housing programs.\r\n\r\n**Why it matters:** Almost every affordable housing program, tax credit, and subsidy eligibility requirement is expressed as a percentage of AMI. Portsmouth's AMI is set by the Boston-Cambridge-Newton MA-NH HUD Metro FMR Area \u2014 meaning it's benchmarked against a large, high-income region, which pushes Portsmouth's AMI higher than you might expect for a NH city.\r\n\r\n**Common tiers:**\r\n- **30% AMI** \u2014 Extremely low income. Qualifies for deepest subsidies (Section 8, HCV)\r\n- **50% AMI** \u2014 Very low income\r\n- **60% AMI** \u2014 Low income. Standard LIHTC threshold\r\n- **80% AMI** \u2014 Low-to-moderate. Upper bound for most \"affordable\" programs\r\n- **120% AMI** \u2014 Moderate income. Often used for workforce housing definitions\r\n\r\n**Portsmouth context:** Ruth Griffin Place targets residents at various AMI levels with rents around $1k/month. The Kane Company's 274-unit project targets \"missing middle\" earners \u2014 likely 80\u2013120% AMI \u2014 who earn too much for subsidized housing but too little for Portsmouth's luxury market.\r\n",
+      "title": "AMI — Area Median Income",
+      "body": "**What it is:** The midpoint income for a given metropolitan area, calculated annually by HUD. Half of households earn above AMI, half below. Used universally to define affordability thresholds in housing programs.\r\n\r\n**Why it matters:** Almost every affordable housing program, tax credit, and subsidy eligibility requirement is expressed as a percentage of AMI. Portsmouth's AMI is set by the Boston-Cambridge-Newton MA-NH HUD Metro FMR Area — meaning it's benchmarked against a large, high-income region, which pushes Portsmouth's AMI higher than you might expect for a NH city.\r\n\r\n**Common tiers:**\r\n- **30% AMI** — Extremely low income. Qualifies for deepest subsidies (Section 8, HCV)\r\n- **50% AMI** — Very low income\r\n- **60% AMI** — Low income. Standard LIHTC threshold\r\n- **80% AMI** — Low-to-moderate. Upper bound for most \"affordable\" programs\r\n- **120% AMI** — Moderate income. Often used for workforce housing definitions\r\n\r\n**Portsmouth context:** Ruth Griffin Place targets residents at various AMI levels with rents around $1k/month. The Kane Company's 274-unit project targets \"missing middle\" earners — likely 80–120% AMI — who earn too much for subsidized housing but too little for Portsmouth's luxury market.\r\n",
       "tags": [
         "financing",
         "affordability",
@@ -110,8 +110,8 @@
     },
     {
       "id": "9b90269e-405e-4689-9681-833ffe019e67",
-      "title": "TIF / TIFF \u2014 Tax Increment Financing",
-      "body": "**What it is:** A public financing tool that uses future increases in property tax revenue from a redeveloped area to fund current infrastructure or affordable housing investments in that same area. The \"increment\" is the difference between baseline tax revenue and the higher revenue generated after development.\r\n\r\n**How it works:** The baseline tax value of a district is frozen. As new development raises property values, the additional tax revenue (the increment) is captured and reinvested in the district rather than going into the general fund \u2014 typically to fund infrastructure, affordable units, or debt service on development bonds.\r\n\r\n**NH context:** Tabor's Finance and Incentives Working Group within the Housing Blue Ribbon Committee was actively investigating TIF/TIFF as a tool for Portsmouth. NH municipalities can establish TIF districts under state enabling legislation.\r\n\r\n**Relevance to Portsmouth:** Potentially useful for funding affordable components of mixed-income projects or infrastructure improvements that make sites development-ready. Still exploratory as of late 2024.\r\n",
+      "title": "TIF / TIFF — Tax Increment Financing",
+      "body": "**What it is:** A public financing tool that uses future increases in property tax revenue from a redeveloped area to fund current infrastructure or affordable housing investments in that same area. The \"increment\" is the difference between baseline tax revenue and the higher revenue generated after development.\r\n\r\n**How it works:** The baseline tax value of a district is frozen. As new development raises property values, the additional tax revenue (the increment) is captured and reinvested in the district rather than going into the general fund — typically to fund infrastructure, affordable units, or debt service on development bonds.\r\n\r\n**NH context:** Tabor's Finance and Incentives Working Group within the Housing Blue Ribbon Committee was actively investigating TIF/TIFF as a tool for Portsmouth. NH municipalities can establish TIF districts under state enabling legislation.\r\n\r\n**Relevance to Portsmouth:** Potentially useful for funding affordable components of mixed-income projects or infrastructure improvements that make sites development-ready. Still exploratory as of late 2024.\r\n",
       "tags": [
         "financing",
         "tax relief",
@@ -122,7 +122,7 @@
     {
       "id": "e5594bdf-f193-42c6-bfe7-5e98180989f2",
       "title": "Co-living",
-      "body": "**What it is:** A housing model featuring private bedrooms with shared common areas (kitchen, living room, sometimes bathrooms). Units are smaller and cheaper than standard apartments. Typically rents by the bedroom rather than the unit.\r\n\r\n**Typical rents:** $600\u2013$1,000/month nationally for co-living rooms vs. $2,000+ for micro-units.\r\n\r\n**Portsmouth status:** City passed a co-living ordinance in May 2025, permitting co-living projects in downtown, gateway, and character districts. First significant co-living proposal was the Market Square/JJ Newberry's redevelopment by developer McNabb \u2014 proposed upper floors as co-living units to serve the affordable end of the market. Received mixed reaction at Planning Board: Councilor Moreau supported the concept but raised management and safety questions; other members noted the tension between co-living and the high-end location.\r\n\r\n**Relevance:** One of the \"alternative housing options\" Kate Cook and others have championed to fill gaps that traditional apartment development doesn't address. Fits the missing middle framework for downtown intensification.\r\n",
+      "body": "**What it is:** A housing model featuring private bedrooms with shared common areas (kitchen, living room, sometimes bathrooms). Units are smaller and cheaper than standard apartments. Typically rents by the bedroom rather than the unit.\r\n\r\n**Typical rents:** $600–$1,000/month nationally for co-living rooms vs. $2,000+ for micro-units.\r\n\r\n**Portsmouth status:** City passed a co-living ordinance in May 2025, permitting co-living projects in downtown, gateway, and character districts. First significant co-living proposal was the Market Square/JJ Newberry's redevelopment by developer McNabb — proposed upper floors as co-living units to serve the affordable end of the market. Received mixed reaction at Planning Board: Councilor Moreau supported the concept but raised management and safety questions; other members noted the tension between co-living and the high-end location.\r\n\r\n**Relevance:** One of the \"alternative housing options\" Kate Cook and others have championed to fill gaps that traditional apartment development doesn't address. Fits the missing middle framework for downtown intensification.\r\n",
       "tags": [
         "housing types",
         "density",
@@ -133,7 +133,7 @@
     {
       "id": "e6959777-0b22-4eb6-903e-a86e6bb68ef6",
       "title": "Land Transfer / Density Bonus",
-      "body": "**What it is:** A mechanism where a developer transfers ownership of a separate parcel of land to the city in exchange for permission to build at higher density than base zoning allows.\r\n\r\n**How it works in Portsmouth's GNOD:** Developers who want to build at the maximum GNOD allowance (6 stories, 120 units/building) must either: (1) include workforce housing units on-site, (2) make a cash payment in lieu of workforce housing into the city's Housing Trust Fund, or (3) transfer a separate property to the city. Option 3 \u2014 the land transfer \u2014 requires City Council approval and gives the city a development parcel it can convey to PHA or a nonprofit developer for below-market housing.\r\n\r\n**First use:** The Kane Company's 274-unit project at 150 Portsmouth Blvd is pursuing the land transfer option to unlock the 6-story density bonus.\r\n\r\n**Strategic significance:** The city gains land for affordable housing without spending acquisition dollars. Tabor estimated the land transfer option could yield 80+ units for PHA or similar nonprofit developers across the full GNOD area. Replicable in any future overlay districts.\r\n",
+      "body": "**What it is:** A mechanism where a developer transfers ownership of a separate parcel of land to the city in exchange for permission to build at higher density than base zoning allows.\r\n\r\n**How it works in Portsmouth's GNOD:** Developers who want to build at the maximum GNOD allowance (6 stories, 120 units/building) must either: (1) include workforce housing units on-site, (2) make a cash payment in lieu of workforce housing into the city's Housing Trust Fund, or (3) transfer a separate property to the city. Option 3 — the land transfer — requires City Council approval and gives the city a development parcel it can convey to PHA or a nonprofit developer for below-market housing.\r\n\r\n**First use:** The Kane Company's 274-unit project at 150 Portsmouth Blvd is pursuing the land transfer option to unlock the 6-story density bonus.\r\n\r\n**Strategic significance:** The city gains land for affordable housing without spending acquisition dollars. Tabor estimated the land transfer option could yield 80+ units for PHA or similar nonprofit developers across the full GNOD area. Replicable in any future overlay districts.\r\n",
       "tags": [
         "zoning",
         "financing",
@@ -145,13 +145,48 @@
     {
       "id": "a3d5103b-fb6e-499a-aca9-90318510c529",
       "title": "Workforce Housing Trust Fund",
-      "body": "**What it is:** A dedicated municipal fund to support the creation and preservation of affordable and workforce housing. Receives contributions from developers in lieu of building required workforce units on-site.\r\n\r\n**Portsmouth's fund:** Established 2009. Governed by 11 terms and conditions. The Housing Blue Ribbon Committee reviewed the fund structure in October 2024 \u2014 focus was on terms 1\u20134 (mission and eligible uses) and whether the fund could be repurposed or expanded. A separate 1993 Portsmouth Housing Endowment Fund Trust (PHEFT) also exists and was discussed in the same session.\r\n\r\n**Current status:** Fund exists but has historically lacked dedicated staff to actively deploy it. The Blue Ribbon Committee identified staffing the Housing Trust Fund as a priority. Beth Moreau has been a consistent advocate for payments-in-lieu feeding into the Trust as a standard condition of larger developments.\r\n\r\n**Relevance:** Every payment-in-lieu from a GNOD developer who doesn't do a land transfer goes here. As GNOD and future overlays generate more development activity, this fund should grow \u2014 but only if it has the governance and staffing to deploy capital effectively.\r\n",
+      "body": "**What it is:** A dedicated municipal fund to support the creation and preservation of affordable and workforce housing. Receives contributions from developers in lieu of building required workforce units on-site.\r\n\r\n**Portsmouth's fund:** Established 2009. Governed by 11 terms and conditions. The Housing Blue Ribbon Committee reviewed the fund structure in October 2024 — focus was on terms 1–4 (mission and eligible uses) and whether the fund could be repurposed or expanded. A separate 1993 Portsmouth Housing Endowment Fund Trust (PHEFT) also exists and was discussed in the same session.\r\n\r\n**Current status:** Fund exists but has historically lacked dedicated staff to actively deploy it. The Blue Ribbon Committee identified staffing the Housing Trust Fund as a priority. Beth Moreau has been a consistent advocate for payments-in-lieu feeding into the Trust as a standard condition of larger developments.\r\n\r\n**Relevance:** Every payment-in-lieu from a GNOD developer who doesn't do a land transfer goes here. As GNOD and future overlays generate more development activity, this fund should grow — but only if it has the governance and staffing to deploy capital effectively.\r\n",
       "tags": [
         "financing",
         "affordability",
         "Portsmouth"
       ],
       "created": "2026-03-11T03:58:10.572154"
+    },
+    {
+      "id": "7d0d41d0-5ab3-441f-bfaf-d2eb8dd896ef",
+      "title": "NOAH — Naturally Occurring Affordable Housing",
+      "body": "Housing that was never built or subsidized as 'affordable' but functions that way because it's older, smaller, or in lower-demand locations — and therefore rents or sells below market rate naturally.\n\n**Why it matters:** NOAH has no legal protection — it can be lost overnight when an owner sells, renovates, or converts to short-term rental. Unlike deed-restricted affordable units, there is no covenant requiring continued affordability.\n\n**The key question:** What happens when the owner sells? A long-time landlord renting below market may be replaced by an investor who renovates and raises rents immediately.\n\n**Potential preservation tools:**\n- Tax incentives (e.g. 14-year property tax freeze) in exchange for a deed restriction keeping rents affordable\n- NOAH registry to track at-risk properties\n- Preservation fund to acquire or subsidize rehabs with affordability covenants attached\n\n**Portsmouth context:** No formal NOAH tracking or preservation program exists yet. HAP item #77 addresses this directly. Early-stage opportunity for PHC to own.\n\n**Notes:** Financial assistance must be paired with legal agreements (deed restrictions/covenants) — incentives alone don't lock in affordability.",
+      "tags": [
+        "NOAH",
+        "preservation",
+        "affordability"
+      ],
+      "created": "2026-03-21T00:00:00.000000"
+    },
+    {
+      "id": "98e5661f-9ae1-43a3-a8bc-61c0f15db3e3",
+      "title": "RHNA — Regional Housing Needs Assessment",
+      "body": "A statutory analysis required by NH RSA 36:47(II) that each regional planning commission must compile to assess the regional need for housing for persons and families of all income levels.\n\n**Purpose:** Provide each municipality in a region with data on current and future housing needs by income level, and assist in determining compliance with the Workforce Housing Statute (RSA 674:58-61).\n\n**Rockingham Region RHNA (2023):**\n- Conducted by Root Policy Research for the Rockingham Planning Commission\n- Available at therpc.org/RHNA\n- Covers all 27 Rockingham communities including Portsmouth\n\n**Portsmouth's fair share (by 2030):** 1,250 units — second largest obligation in the region after Salem (1,714).\n\n**Important caveat:** The RHNA fair share table cannot be used directly to prove or disprove compliance with RSA 674:58-61 — that requires a separate municipal-level analysis.",
+      "tags": [
+        "RHNA",
+        "regional",
+        "RPC",
+        "data"
+      ],
+      "created": "2026-03-21T00:00:00.000000"
+    },
+    {
+      "id": "bcd747a1-b259-4957-ae9b-ab10a853e126",
+      "title": "LIHTC — Low Income Housing Tax Credit",
+      "body": "The federal government's primary tool for financing affordable housing construction. Administered at the state level — in NH by the NH Housing Finance Authority (NHHFA).\n\n**How it works:**\n1. IRS allocates tax credits to each state based on population\n2. State housing finance agency (NHHFA in NH) distributes credits competitively via annual application process\n3. Developers apply for credits; if awarded, they sell the credits to investors (typically banks) who want to reduce federal tax liability\n4. That sale generates equity — upfront cash the developer uses to build without needing as much debt\n5. Less debt = lower rents are financially viable\n6. In exchange, developer must keep units affordable (typically at 60% AMI) for 30 years\n\n**Portsmouth use:** PHA uses LIHTC constantly — Sherburne School (2026 credits awarded), Ruth Griffin Place, and Lafayette Road/Christ Church all used or are using LIHTC. It's the engine behind virtually every affordable housing project in the country.\n\n**Limitations:** Highly competitive — not all applications succeed. Complex, with long compliance periods and ongoing monitoring requirements. City has limited control over state/federal allocation decisions. Cannot LIHTC your way out of a large housing deficit alone.",
+      "tags": [
+        "LIHTC",
+        "financing",
+        "federal",
+        "affordable housing"
+      ],
+      "created": "2026-03-21T00:00:00.000000"
     }
   ]
 }
