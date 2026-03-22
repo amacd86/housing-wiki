@@ -187,6 +187,44 @@
         "affordable housing"
       ],
       "created": "2026-03-21T00:00:00.000000"
+    },
+    {
+      "id": "68ad9663-93db-409e-a8e8-c7dad626dd06",
+      "title": "GRA — General Residence A Zone",
+      "body": "One of Portsmouth's residential zoning districts. More permissive than the single-family zones (R, SRA, SRB) — allows multifamily housing and has less restrictive dimensional standards including smaller minimum lot sizes, reduced setbacks, and smaller frontage requirements.\n\n**Relevance to ADUs:** Byron Matteo's GIS analysis proposes allowing ADUs in single-family zones to use GRA dimensional rules rather than stricter single-family standards. Since 69.9% of single-family parcels are already nonconforming, this change would unlock ADU potential on thousands of lots currently blocked by a technical variance requirement.\n\n**Related zones:** GRB and GRC are additional general residence zones with varying density allowances.",
+      "tags": [
+        "GRA",
+        "zoning",
+        "residential",
+        "density"
+      ],
+      "created": "2026-03-21T00:00:00.000000"
+    },
+    {
+      "id": "418698e8-e2b9-4193-b7ef-d599aecb5ef6",
+      "title": "R, SRA, SRB — Single-Family Residential Zones",
+      "body": "Portsmouth's three single-family-only residential zones. Together they cover 2,276 acres — 85.8% of all residential land in the city.\n\n**R Zone** (498 acres)\n- Currently requires 5-acre minimum lot size\n- 85.4% of parcels violate current lot size requirements\n- Byron Matteo GIS proposal: reduce to 1-acre minimums, allow two-family by right\n\n**SRA Zone** (589 acres)\n- Currently requires 1-acre minimum lot size\n- 50.5% of parcels violate current requirements\n- Proposal: reduce to 15,000 sf minimums, allow two-family and small multifamily\n\n**SRB Zone** (1,189 acres — largest single-family zone)\n- Currently requires 15,000 sf minimum lot size\n- 71.8% of parcels violate current requirements\n- Proposal: reduce to 7,500 sf minimums, allow two-family by right, multifamily by special exception\n\n**The core problem:** 69.9% of all parcels across these three zones don't meet current zoning requirements — they were built before modern standards were adopted. This creates widespread variance requirements that block even modest housing improvements like ADUs.\n\n**Significance:** Reforming these three zones is the single largest housing opportunity in Portsmouth — but also the most politically volatile item in the HAP framework.",
+      "tags": [
+        "R zone",
+        "SRA",
+        "SRB",
+        "single-family",
+        "zoning"
+      ],
+      "created": "2026-03-21T00:00:00.000000"
+    },
+    {
+      "id": "1deabd52-bf6e-4cff-9b31-97dfebc8f9f9",
+      "title": "ZBA — Zoning Board of Adjustment",
+      "body": "A quasi-judicial volunteer board that rules on requests for variances and special exceptions from the Portsmouth Zoning Ordinance, as well as appeals from administrative decisions.\n\n**Meets:** Third Tuesday of every month, 7pm, City Hall.\n\n**Key functions:**\n- **Variances** — permission to deviate from zoning standards when strict application would cause unnecessary hardship\n- **Special exceptions** — uses that are conditionally permitted in a zone but require board approval\n- **Administrative appeals** — challenges to decisions made by the Planning Director or Code Official\n\n**Relevance to housing:** High variance load is a symptom of zoning standards that don't match existing development patterns. When 69.9% of single-family parcels are nonconforming, even routine improvements trigger ZBA review. The HAP framework includes reducing variance requirements for housing as a distinct action item — replacing variances with clear by-right standards where possible.\n\n**Distinction from Planning Board:** Planning Board handles site plan review and zoning ordinance changes. ZBA handles individual property relief from existing standards. Both are volunteer boards appointed by the City Council.",
+      "tags": [
+        "ZBA",
+        "zoning",
+        "boards",
+        "process",
+        "variances"
+      ],
+      "created": "2026-03-21T00:00:00.000000"
     }
   ]
 }
